@@ -1,0 +1,8 @@
+pymupdf
+python-pptx
+fastapi
+uvicorn
+python-multipart
+Pillow
+numpy
+requests
