@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js / Frontend
+node_modules/
+package-lock.json
+yarn.lock
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+*.bak
+*.backup
+
+# Application-specific
+uploads/
+temp_files/
+output/
+cache/
+*.pptx
+*.pdf
+
+# Git
+.gitignore
+
+# IDE configurations (OS-specific)
+.vscode/settings.json
+.vscode/extensions.json
+.idea/workspace.xml
+.idea/codeStyles/
+
+# Build outputs
+*.min.js
+*.min.css
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# LM Studio / Model files
+models/
+*.bin
+*.safetensors
